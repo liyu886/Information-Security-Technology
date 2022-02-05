@@ -1,0 +1,11 @@
+clear text:
+²âÊÔËæ»úÃÜÔ¿
+
+Key
+ÎÒÊÇÃÜÔ¿
+
+Ciphertext:
+1bYAþ*Xâ±7+èFf^q7dFlÿµñ¨¸_q¢]ˆŠéLV^Õ=T¼;à”	mYð8B©E±û{ÐŠ=T¼;à”	m=T¼;à”	m]ˆŠéLV^Õ…wYŸq~®t]ˆŠéLV^Õ
+
+After decryption: 
+²âÊÔËæ»úÃÜÔ¿
